@@ -143,4 +143,4 @@ For example:
 - `foo/bar/foo` and `foo/bar` will **NOT** match
 Note: left side is the topic route and the right side is the message route
 
-Sponsored by [PersianSaze](https://persiansaze.com/).
+Sponsored by [بانک اطلاعات ساختمان](https://persiansaze.com/).
